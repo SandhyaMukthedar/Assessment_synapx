@@ -1,0 +1,25 @@
+{
+    "extracted_data": {
+        "policy_number": "POL12345",
+        "policyholder_name": "Ramesh Kumar",
+        "effective_dates": "01-01-2025 to 01-01-2026\n\nIncident Date",
+        "incident_date": "12-01-2025",
+        "incident_time": "10:30 AM",
+        "location": "Bangalore",
+        "description": "Minor car accident with another vehicle",
+        "claimant": "Ramesh Kumar",
+        "third_parties": "Suresh",
+        "contact_details": "",
+        "asset_type": "Car",
+        "asset_id": "KA01AB1234",
+        "estimated_damage": "20000",
+        "claim_type": "Accident",
+        "attachments": "Yes",
+        "initial_estimate": "20000"
+    },
+    "missing_fields": [
+        "contact_details"
+    ],
+    "routed_to": "manual_review",
+    "reason": "Missing required fields"
+}

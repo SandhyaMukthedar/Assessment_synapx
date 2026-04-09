@@ -1,0 +1,20 @@
+Policy Number: POL12345
+Policyholder Name: Ramesh Kumar
+Effective Dates: 01-01-2025 to 01-01-2026
+
+Incident Date: 12-01-2025
+Incident Time: 10:30 AM
+Location: Bangalore
+Description: Minor car accident with another vehicle
+
+Claimant: Ramesh Kumar
+Third Parties: Suresh
+Contact Details: 9876543210
+
+Asset Type: Car
+Asset ID: KA01AB1234
+Estimated Damage: 20000
+
+Claim Type: Accident
+Attachments: Yes
+Initial Estimate: 20000
